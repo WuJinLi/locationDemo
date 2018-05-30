@@ -15,9 +15,6 @@ import android.telephony.TelephonyManager;
 import android.util.Log;
 
 /**
- * @author Vincent.M
- * @date 16/10/09 下午6:50
- * @copyright ©2016 孟祥程 All Rights Reserved
  * @desc 网络状况工具类
  */
 public class NetWorkUtils {
